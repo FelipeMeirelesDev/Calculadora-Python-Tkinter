@@ -18,9 +18,12 @@ botao9 = tk.Button (janela, text="9",width=12, height=8);
 botao1.place(x=0, y=469);
 botao4.place(x=0, y=340);
 botao7.place(x=0, y=211);
-botao2.place(x=66, y=469);
-botao3.place(x=132, y=469);
-
+botao2.place(x=94, y=469);
+botao3.place(x=188, y=469);
+botao5.place(x=94, y=340);
+botao6.place(x=188, y=340);
+botao8.place(x= 94,y=211);
+botao9.place(x=188, y=211);
 
 
 janela.mainloop();
