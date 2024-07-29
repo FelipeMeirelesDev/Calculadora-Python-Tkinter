@@ -18,8 +18,6 @@ botaomais = tk.Button (janela, text="+",width=16, height=8,bg="gray");
 botaomenos = tk.Button (janela, text="-",width=16, height=8,bg="gray");
 tela = tk.Entry (janela, width=65, font=('Arial', 80));
 
-print("Teste");
-
 tela.pack(pady=40)
 botao1.place(x=0, y=469);
 botao4.place(x=0, y=340);
